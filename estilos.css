@@ -83,3 +83,12 @@ body {
   align-items: center;
 }
 
+footer {
+    background-color: black;
+    padding: 50px 50px;
+    margin-top: 50px;
+}
+footer h2 {
+    color: white;
+}
+
